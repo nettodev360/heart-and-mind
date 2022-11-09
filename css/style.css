@@ -1,0 +1,36 @@
+body {
+    background-color: antiquewhite;
+}
+
+.logo {
+    max-width: 250px;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.profile{
+    max-width: 300px;
+}
+
+header{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.pic {
+    float: left;
+}
+
+.about {
+    float:right;
+    margin-right: 360px;
+    margin-top: 10px;
+}
+
+#quote {
+    font-weight: bold;
+    font-style: italic;
+    font: 50px;
+}
