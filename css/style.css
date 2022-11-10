@@ -1,5 +1,6 @@
 body {
-    background-color: antiquewhite;
+    background-color: white;
+    display: flexbox;
 }
 
 .logo {
@@ -8,10 +9,15 @@ body {
 
 .navbar {
     background-color: white;
+    font-size: 30px;
 }
 
 .profile{
-    max-width: 300px;
+    max-width: 250px;
+}
+
+.jumbotron {
+    background-color: white;
 }
 
 header{
@@ -29,8 +35,18 @@ header{
     margin-top: 10px;
 }
 
+.bio {
+    float: right;
+}
+
 #quote {
     font-weight: bold;
     font-style: italic;
-    font: 50px;
+}
+#mind {
+    font-style: italic;
+}
+
+#footer {
+    padding-top: 40px;
 }
