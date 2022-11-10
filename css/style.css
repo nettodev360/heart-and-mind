@@ -64,6 +64,11 @@ header{
 
 #footer {
     padding-top: 40px;
+    font-size: 40px;
+}
+
+#mail {
+    color: whitesmoke;
 }
 
 @media (min-width: 40em) {
