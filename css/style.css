@@ -83,17 +83,27 @@ hr {
 #footer {
     padding-top: 40px;
     font-size: 40px;
+    background-color: whitesmoke;
 }
+
+/* .footer {
+    display: flexbox;
+    justify-content: center;
+} */
 
 #contact {
     /* text-decoration: underline ; */
-    border: 1px solid;
-    border-color: whitesmoke;
+    /* border: 1px solid;
+    border-color: black; */
+    color: black;
     padding: 10px;
+    margin-right: 850px;
+    text-align: center;
 }
 
 #mail {
     color: whitesmoke;
+    font-size: 30px;
 }
 
 @media (min-width: 40em) {
