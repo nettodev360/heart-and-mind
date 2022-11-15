@@ -106,6 +106,6 @@ hr {
     font-size: 30px;
 }
 
-@media (min-width: 40em) {
+/* @media (min-width: 40em) {
     *{display: block-size: :default;}
-}
+} */
